@@ -1,6 +1,6 @@
 # 🌬️ Air Conditioner Market Analysis — Power BI Dashboard
 ## 📸 Dashboard Preview
-![Dashboard](IMG_20260608_171622.jpg)
+![Dashboard](IMG-20260610-WA0000.jpg)
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
